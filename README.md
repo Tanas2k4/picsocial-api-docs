@@ -4,8 +4,13 @@
 [![OpenAPI 3.0](https://img.shields.io/badge/OpenAPI-3.0-green.svg)](swagger.json)
 [![Static Docs](https://img.shields.io/badge/Docs-Static%20Only-orange)](https://YOUR_USERNAME.github.io/picsocial-api-docs)
 
+<img width="1841" height="899" alt="image" src="https://github.com/user-attachments/assets/9bad82df-842a-4db8-86c6-f02a52e4f66c" />
+
+
+You can visit **[picsocial-api-docs](https://tanas2k4.github.io/picsocial-api-docs/)**
+
 Static Swagger UI hosted on GitHub Pages  
-(forked from [swagger-static-docs-template](https://github.com/Tanas2k4/swagger-static-docs-template)).
+See the [swagger-static-docs-template](https://github.com/Tanas2k4/swagger-static-docs-template) for step-by-step guidance.
 
 Interactive API docs (view only – no "Try it out" execution).
 
